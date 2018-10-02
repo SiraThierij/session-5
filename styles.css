@@ -7,5 +7,14 @@ body {
 
 .robert {
 	color: blue;
+	text-transform: uppercase;
 } 
-#header-level-3 {color: yellow;}
+#header-level-3 {color: red;}
+.manuel {padding: 15px;
+	max-width: 400px;
+background: yellow;}
+#mybox {width: 150px;
+position: fixed;
+top: 30px;
+left: 100px;
+width: 250px;}
